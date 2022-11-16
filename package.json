@@ -1,0 +1,77 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@headlessui/react": "^1.7.3",
+    "@mui/lab": "^5.0.0-alpha.107",
+    "@mui/material": "^5.10.13",
+    "@mui/system": "^5.10.13",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.1.3",
+    "chart.js": "^3.9.1",
+    "crypto-js": "^4.1.1",
+    "date-format": "^4.0.14",
+    "dateformat": "^5.0.3",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^4.3.1",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-data-table-component": "^7.5.3",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.6.0",
+    "react-loading": "^2.0.3",
+    "react-modal": "^3.16.1",
+    "react-multi-select-component": "^4.3.4",
+    "react-pro-sidebar": "^1.0.0-alpha.6",
+    "react-redux": "^8.0.4",
+    "react-router-dom": "^6.4.2",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^9.0.8",
+    "recharts": "^2.1.15",
+    "styled-components": "^5.3.6",
+    "sweet-alert": "^2.0.5",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^11.6.2",
+    "usestate": "^1.1.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.17",
+    "tailwind-scrollbar": "^2.0.1",
+    "tailwindcss": "^3.1.8"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "tailwind.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
